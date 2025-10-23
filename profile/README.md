@@ -1,12 +1,124 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+```
+███████╗████████╗███████╗██╗     ██╗      █████╗ ██████╗ ██╗████████╗ █████╗ 
+██╔════╝╚══██╔══╝██╔════╝██║     ██║     ██╔══██╗██╔══██╗██║╚══██╔══╝██╔══██╗
+███████╗   ██║   █████╗  ██║     ██║     ███████║██████╔╝██║   ██║   ███████║
+╚════██║   ██║   ██╔══╝  ██║     ██║     ██╔══██║██╔══██╗██║   ██║   ██╔══██║
+███████║   ██║   ███████╗███████╗███████╗██║  ██║██║  ██║██║   ██║   ██║  ██║
+╚══════╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-**Here are some ideas to get you started:**
+```diff
+! [SISTEMA INICIALIZANDO...]
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+<div align="center">
+
+### ⚠️ ACESSO RESTRITO ⚠️
+
+```
+> Conexão estabelecida...
+> Protocolos de segurança: ATIVOS
+> Nível de acesso: PÚBLICO
+> Status do sistema: EM DESENVOLVIMENTO
+```
+
+</div>
+
+<br>
+
+```ascii
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  "Em um mundo onde dados são poder,                    │
+│   nós construímos as ferramentas do amanhã."           │
+│                                                         │
+│  "O futuro não espera.                                 │
+│   O futuro se constrói."                               │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<div align="center">
+
+## [ TRANSMISSÃO CODIFICADA ]
+
+```
+████████████████████ 43% ████░░░░░░░░░░░░░░
+```
+
+### PROJETO: STELLARITA
+### STATUS: [CLASSIFIED]
+### ETA: [SOON]
+
+<br>
+
+```diff
+- SISTEMAS LEGADOS: OBSOLETOS
++ NOVA ERA: IMINENTE
+! AGUARDE PRÓXIMAS INSTRUÇÕES
+```
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                            ┃
+┃  [█] NODE_01: OPERATIONAL                 ┃
+┃  [█] NODE_02: OPERATIONAL                 ┃
+┃  [░] NODE_03: STANDBY                     ┃
+┃  [░] NODE_04: STANDBY                     ┃
+┃  [░] MAINFRAME: INITIALIZING...           ┃
+┃                                            ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<br>
+
+![Cyber](https://img.shields.io/badge/CYBER-ACTIVE-00ff00?style=for-the-badge&logo=matrix&logoColor=white)
+![System](https://img.shields.io/badge/SYSTEM-BUILDING-ff0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Classified](https://img.shields.io/badge/STATUS-CLASSIFIED-yellow?style=for-the-badge&logo=hackaday&logoColor=black)
+
+<br>
+
+```
+╔════════════════════════════════════════╗
+║  "Não é uma questão de 'se',          ║
+║   mas 'quando' o futuro chega."       ║
+╚════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+
+```
+[END TRANSMISSION]
+```
+
+<sub>STELLARITA © 2025 | TODOS OS DIREITOS RESERVADOS</sub>
+<br>
+<sub>⚡ POWERED BY FUTURE TECH ⚡</sub>
+
+### ◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+
+</div>
